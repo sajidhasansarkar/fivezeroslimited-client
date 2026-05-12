@@ -2,8 +2,6 @@ import {
   createBrowserRouter,
 } from "react-router-dom";
 
-
-
 import Home from "../pages/Home";
 import Tenders from "../pages/Tenders";
 import Downloads from "../pages/Downloads";
